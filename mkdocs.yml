@@ -1,9 +1,9 @@
 site_name: PyProb
 
 
-# site_url: https://haskell-docs.netlify.app/
+site_url: https://app.netlify.com/sites/silver-empanada-b6dc0f/
 
-# repo_url: https://github.com/reubenharry/haskell-docs
+repo_url: https://github.com/reubenharry/pyprob-docs
 
 
 theme:
@@ -52,7 +52,7 @@ theme:
   icon:
     logo: material/hook
 
-edit_uri: 'edit/main/docs/docs/'
+edit_uri: 'edit/main/docs/'
 
 
 
